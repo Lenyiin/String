@@ -1,0 +1,5 @@
+﻿  String.cpp
+E:\Git 仓库\公开仓库\3_String\Windows_String\String.hpp(309,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Git 仓库\公开仓库\3_String\Windows_String\String.hpp(334,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Git 仓库\公开仓库\3_String\Windows_String\String.hpp(471,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Windows_String.vcxproj -> E:\Git 仓库\公开仓库\3_String\Windows_String\x64\Debug\Windows_String.exe
